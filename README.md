@@ -209,7 +209,7 @@
 - [ ] Manipulating the WebSocket handshake to exploit vulnerabilities (Practitioner)
 
 ## Web Cache Poisoning
-- [ ] Web cache poisoning with an unkeyed header (Practitioner)
+- [x] Web cache poisoning with an unkeyed header (Practitioner)
 - [ ] Web cache poisoning with an unkeyed cookie (Practitioner)
 - [ ] Web cache poisoning with multiple headers (Practitioner)
 - [ ] Targeted web cache poisoning using an unknown header (Practitioner)
