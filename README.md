@@ -212,7 +212,7 @@
 - [x] Web cache poisoning with an unkeyed header (Practitioner)
 - [x] Web cache poisoning with an unkeyed cookie (Practitioner)
 - [x] Web cache poisoning with multiple headers (Practitioner)
-- [ ] Targeted web cache poisoning using an unknown header (Practitioner)
+- [x] Targeted web cache poisoning using an unknown header (Practitioner)
 - [ ] Web cache poisoning via an unkeyed query string (Practitioner)
 - [ ] Web cache poisoning via an unkeyed query parameter (Practitioner)
 - [ ] Parameter cloaking (Practitioner)
