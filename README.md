@@ -209,15 +209,15 @@
 - [ ] Manipulating the WebSocket handshake to exploit vulnerabilities (Practitioner)
 
 ## Web Cache Poisoning
-- [x] Web cache poisoning with an unkeyed header (Practitioner)
+- [x] Web cache poisoning with an unkeyed header (Practitioner) 
 - [x] Web cache poisoning with an unkeyed cookie (Practitioner)
 - [x] Web cache poisoning with multiple headers (Practitioner)
 - [x] Targeted web cache poisoning using an unknown header (Practitioner)
 - [x] Web cache poisoning via an unkeyed query string (Practitioner)
 - [x] Web cache poisoning via an unkeyed query parameter (Practitioner)
 - [x] Parameter cloaking (Practitioner)
-- [ ] Web cache poisoning via a fat GET request (Practitioner)
-- [ ] URL normalization (Practitioner)
+- [x] Web cache poisoning via a fat GET request (Practitioner)
+- [x] URL normalization (Practitioner)
 - [ ] Web cache poisoning to exploit a DOM vulnerability via a cache with strict cacheability criteria (Expert)
 - [ ] Combining web cache poisoning vulnerabilities (Expert)
 - [ ] Cache key injection (Expert)
