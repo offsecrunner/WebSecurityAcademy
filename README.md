@@ -220,7 +220,7 @@
 - [x] URL normalization (Practitioner)
 - [x] Web cache poisoning to exploit a DOM vulnerability via a cache with strict cacheability criteria (Expert)
 - [x] Combining web cache poisoning vulnerabilities (Expert)
-- [ ] Cache key injection (Expert)
+- [x] Cache key injection (Expert)
 - [ ] Internal cache poisoning (Expert)
 
 ## Insecure Deserialization
