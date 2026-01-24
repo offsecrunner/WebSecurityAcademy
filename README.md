@@ -221,7 +221,7 @@
 - [x] Web cache poisoning to exploit a DOM vulnerability via a cache with strict cacheability criteria (Expert)
 - [x] Combining web cache poisoning vulnerabilities (Expert)
 - [x] Cache key injection (Expert)
-- [ ] Internal cache poisoning (Expert)
+- [x] Internal cache poisoning (Expert)
 
 ## Insecure Deserialization
 - [ ] Modifying serialized objects (Apprentice)
