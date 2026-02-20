@@ -209,8 +209,8 @@
 - [ ] Manipulating the WebSocket handshake to exploit vulnerabilities (Practitioner)
 
 ## Web Cache Poisoning
-- [x] Web cache poisoning with an unkeyed header (Practitioner) | [Youtube Video](https://yt.com)
-- [x] Web cache poisoning with an unkeyed cookie (Practitioner) | [YouTube Video]()
+- [x] Web cache poisoning with an unkeyed header (Practitioner) | [Youtube Video](https://youtu.be/24bifds_aaU?si=hbaiAwaGIguwYySu)
+- [x] Web cache poisoning with an unkeyed cookie (Practitioner) | [YouTube Video](https://youtu.be/FHWvI-If3Kg?si=HWTs6PIJuFW8m4Ly)
 - [x] Web cache poisoning with multiple headers (Practitioner) | [YouTube Video]()
 - [x] Targeted web cache poisoning using an unknown header (Practitioner) | [YouTube Video]()
 - [x] Web cache poisoning via an unkeyed query string (Practitioner) | [YouTube Video]()
