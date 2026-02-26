@@ -45,7 +45,7 @@
 - [ ] Reflected XSS into a JavaScript string with angle brackets HTML encoded
 
 ### Practitioner
-- [ ] DOM XSS in document.write sink using source location.search inside a select element
+- [x] DOM XSS in document.write sink using source location.search inside a select element
 - [ ] DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded
 - [ ] Reflected DOM XSS
 - [ ] Stored DOM XSS
