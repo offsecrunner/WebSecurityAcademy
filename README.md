@@ -214,7 +214,7 @@
 - [x] Web cache poisoning with multiple headers (Practitioner) | [YouTube Video](https://youtu.be/sTzNB_NzYdQ)
 - [x] Targeted web cache poisoning using an unknown header (Practitioner) | [YouTube Video](https://youtu.be/fBMGCEGqAbA?si=7Awe1ERBYZ03ui9v)
 - [x] Web cache poisoning via an unkeyed query string (Practitioner) | [YouTube Video](https://youtu.be/8xViXA9GPA8?si=neA0GDvOhxpg4zcp)
-- [x] Web cache poisoning via an unkeyed query parameter (Practitioner) | [YouTube Video]()
+- [x] Web cache poisoning via an unkeyed query parameter (Practitioner) | [YouTube Video](https://youtu.be/L-SMOpuTsJM)
 - [x] Parameter cloaking (Practitioner) | [YouTube Video]()
 - [x] Web cache poisoning via a fat GET request (Practitioner) | [YouTube Video]()
 - [x] URL normalization (Practitioner) | [YouTube Video]()
