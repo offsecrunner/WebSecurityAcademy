@@ -217,7 +217,7 @@
 - [x] Web cache poisoning via an unkeyed query parameter (Practitioner) | [YouTube Video](https://youtu.be/L-SMOpuTsJM)
 - [x] Parameter cloaking (Practitioner) | [YouTube Video](https://youtu.be/IPUsy_0kZxg)
 - [x] Web cache poisoning via a fat GET request (Practitioner) | [YouTube Video](https://youtu.be/pLH3WUflSoY)
-- [x] URL normalization (Practitioner) | [YouTube Video]()
+- [x] URL normalization (Practitioner) | [YouTube Video](https://youtu.be/wY3akcbwM-M)
 - [x] Web cache poisoning to exploit a DOM vulnerability via a cache with strict cacheability criteria (Expert) | [YouTube Video]()
 - [x] Combining web cache poisoning vulnerabilities (Expert) | [YouTube Video]()
 - [x] Cache key injection (Expert) | [YouTube Video]()
