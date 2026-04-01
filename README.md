@@ -309,7 +309,7 @@
 
 ## JWT Attacks
 - [x] JWT authentication bypass via unverified signature (Apprentice) | [Youtube Video](https://youtu.be/PsqNWSXUSgs)
-- [ ] JWT authentication bypass via flawed signature verification (Apprentice) | [Youtube Video]()
+- [ ] JWT authentication bypass via flawed signature verification (Apprentice) | [Youtube Video](https://youtu.be/wQeDag74fao)
 - [ ] JWT authentication bypass via weak signing key (Practitioner) | [Youtube Video]()
 - [ ] JWT authentication bypass via jwk header injection (Practitioner) | [Youtube Video]()
 - [ ] JWT authentication bypass via jku header injection (Practitioner) | [Youtube Video]()
