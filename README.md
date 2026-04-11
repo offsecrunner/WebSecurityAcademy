@@ -312,7 +312,7 @@
 - [x] JWT authentication bypass via flawed signature verification (Apprentice) | [Youtube Video](https://youtu.be/wQeDag74fao)
 - [x] JWT authentication bypass via weak signing key (Practitioner) | [Youtube Video](https://youtu.be/7W2Br3_w-5o)
 - [x] JWT authentication bypass via jwk header injection (Practitioner) | [Youtube Video](https://youtu.be/Lx732We3VsA)
-- [ ] JWT authentication bypass via jku header injection (Practitioner) | [Youtube Video]()
+- [x] JWT authentication bypass via jku header injection (Practitioner) | [Youtube Video](https://youtu.be/dxi71gcwuwI)
 - [ ] JWT authentication bypass via kid header path traversal (Practitioner) | [Youtube Video]()
 - [ ] JWT authentication bypass via algorithm confusion (Expert) | [Youtube Video]()
 - [ ] JWT authentication bypass via algorithm confusion with no exposed key (Expert) | [Youtube Video]()
