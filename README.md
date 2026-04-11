@@ -315,7 +315,7 @@
 - [x] JWT authentication bypass via jku header injection (Practitioner) | [Youtube Video](https://youtu.be/dxi71gcwuwI)
 - [x] JWT authentication bypass via kid header path traversal (Practitioner) | [Youtube Video](https://youtu.be/d7vqBAjCr_w)
 - [x] JWT authentication bypass via algorithm confusion (Expert) | [Youtube Video](https://youtu.be/TKoBEFfsw9E)
-- [ ] JWT authentication bypass via algorithm confusion with no exposed key (Expert) | [Youtube Video]()
+- [x] JWT authentication bypass via algorithm confusion with no exposed key (Expert) | [Youtube Video](https://youtu.be/4J9EL7Bhdp4)
 
 ## Essential Skills
 - [ ] Discovering vulnerabilities quickly with targeted scanning (Practitioner) | [Youtube Video]()
