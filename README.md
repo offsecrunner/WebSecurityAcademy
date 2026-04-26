@@ -141,13 +141,13 @@
 - [ ] Exploiting XXE to retrieve data by repurposing a local DTD (Expert)
 
 ## Server-side Request Forgery (SSRF)
-- [ ] Basic SSRF against the local server (Apprentice)
-- [ ] Basic SSRF against another back-end system (Apprentice)
-- [ ] Blind SSRF with out-of-band detection (Practitioner)
-- [ ] SSRF with blacklist-based input filter (Practitioner)
-- [ ] SSRF with filter bypass via open redirection vulnerability (Practitioner)
-- [ ] Blind SSRF with Shellshock exploitation (Expert)
-- [ ] SSRF with whitelist-based input filter (Expert)
+- [X] Basic SSRF against the local server (Apprentice)  | [Youtube Video](https://youtu.be/p0Z8Acazrbg)
+- [X] Basic SSRF against another back-end system (Apprentice) | [Youtube Video](https://youtu.be/7yT6-DUsFGI)
+- [X] Blind SSRF with out-of-band detection (Practitioner) | [Youtube Video](https://youtu.be/GPTsEDPb39g)
+- [X] SSRF with blacklist-based input filter (Practitioner) | [Youtube Video](https://youtu.be/TWc1MSIzsIk)
+- [X] SSRF with filter bypass via open redirection vulnerability (Practitioner) | [Youtube Video](https://youtu.be/lOks4NwXHbs)
+- [X] Blind SSRF with Shellshock exploitation (Expert) | [Youtube Video](https://youtu.be/B24vApdWB4s)
+- [X] SSRF with whitelist-based input filter (Expert) | [Youtube Video](https://youtu.be/QFr0kzQLSFM)
 
 ## HTTP Request Smuggling
 - [ ] HTTP request smuggling, confirming a CL.TE vulnerability via differential responses (Practitioner)
